@@ -1,9 +1,8 @@
-### Olá, eu me chamo Alisson e seja bem vindo! 👋
-- 👨🏽‍💻 Cursando Analise e Desenvolvimento de Sistemas na UNIP
-- 📚 Atualmente estou aprendendo sobre o Front-end, iniciado pela linguagem Javascript 
-- 📧 E-mail para contato: alissonbernardesss@gmail.com
+### Olá, eu me chamo Gustavo e seja bem vindo! 👋
+- 👨🏽‍💻 Cursando Ciência da Computação na FMU
+- 📚 Atualmente estou estudando sobre o Front-end, Back-end, API´s e Base de dados  
 - 🏡 São Paulo, SP - Brazil 
-- 🔹 Linkedin: https://www.linkedin.com/in/alisson-bernardes-de-oliveira/
+- 🔹 Linkedin: https://www.linkedin.com/in/gustavodonizete-ti/
 - 👾 Apaixonado por jogos
 
 <div align="center">
