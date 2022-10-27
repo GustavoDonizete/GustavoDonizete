@@ -3,7 +3,8 @@
 - 📚 Atualmente estou estudando sobre o Front-end, Back-end, API´s e Base de dados  
 - 🏡 São Paulo, SP - Brazil 
 - 🔹 Linkedin: https://www.linkedin.com/in/gustavodonizete-ti/
-- 👾 Apaixonado por jogos
+- 🔹 Portfólio: https://devgustavodonizete.netlify.app
+- 👾 Apaixonado por filmes, séries e jogos solo 
 
 <div align="center">
   <a href="https://github.com/GustavoDonizete">
