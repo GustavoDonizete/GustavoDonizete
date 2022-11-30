@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-💻 Estou trabalhando atualmente como Estagiário de Analytic no Itaú Unibanco 🧡<br>📚 Ciência da computação FMU - Faculdades Metropolitanas Unidas<br>🏠 São Paulo, SP - Brasil<br>🔹 LinkedIn: https://www.linkedin.com/in/gustavodonizete-ti/<br>🔹 Portfólio: https://devgustavodonizete.netlify.app<br>👾 Apaixonado por filmes, séries e jogos solo
+💻 Estagiário Analytic | Itaú Unibanco 🧡<br>📚 Ciência da computação | FMU - Faculdades Metropolitanas Unidas<br>🏠 São Paulo, SP - Brasil<br>🔹 LinkedIn: https://www.linkedin.com/in/gustavodonizete-ti/<br>🔹 Portfólio: https://devgustavodonizete.netlify.app<br>👾 Apaixonado por filmes, séries e jogos solo
 
 
 ## 🌐 Socials:
