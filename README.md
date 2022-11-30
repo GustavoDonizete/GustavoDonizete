@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=GustavoDonizete&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=GustavoDonizete&theme=blueberry&hide_border=false)<br/>
 
-### ✍️ Frase filosófica de alguém envolvido com tecnologia... rs
+### ✍️ "Uma frase filosófica inspiradora aleatória..."
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
