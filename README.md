@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-💻 Estagiário Analytic | Itaú Unibanco 🧡<br>📚 Ciência da computação | FMU - Faculdades Metropolitanas Unidas<br>🏠 São Paulo, SP - Brasil<br>🔹 Portfólio: https://devgustavodonizete.netlify.app<br>👾 Apaixonado por filmes, séries e jogos competitivos
+💻 Engenheiro de Processos | Itaú Unibanco 🧡<br>📚 Ciência da computação | FMU - Faculdades Metropolitanas Unidas<br>🏠 São Paulo, SP - Brasil<br>🔹 Portfólio: https://devgustavodonizete.netlify.app<br>👾 Apaixonado por filmes, séries e jogos competitivos
 
 
 ## 🌐 Socials:
